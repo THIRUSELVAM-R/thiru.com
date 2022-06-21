@@ -93,7 +93,7 @@ a:link.oo
     display: flex;
     flex-direction: column;
     background: url('res11.jpg') no-repeat center center/cover;
-    font-family: Redressed;
+    font-family: bold;
 }
 #skills h1{
     margin: 60px;
